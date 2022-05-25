@@ -16,4 +16,4 @@ public:
         this->estrategia = n;
     }
     ~Player();
-}
+};
